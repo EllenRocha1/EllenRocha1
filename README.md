@@ -1,9 +1,11 @@
-🧙‍♀️ _“<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:82b1ff,100:ffcc80&height=180&section=header&text=Ellen%20Rocha&fontAlign=center&fontSize=40&fontColor=ffffff" />
-  
+<div align="center">
+  <!-- Banner com tons Stardew Valley: verde musgo → azul claro -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c686,100:9ad0ec&height=180&section=header&text=Ellen%20Rocha&fontAlign=center&fontSize=40&fontColor=fffbe6" />
+
+  <!-- Pixel Avatar no estilo retrô (adicione esse arquivo na pasta assets do seu perfil) -->
   <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.gif" width="150px" alt="Pixel Avatar">
-  
-  <h2>🧑‍💻 Desenvolvedora em Construção | 🌱 Amante de Robótica e Pixel Art</h2>
+
+  <h2 style="color:#a67c52">🧑‍💻 Eng. da Computação em Construção | 🌻 Entusiasta da Robótica</h2>
 </div>
 
 ---
