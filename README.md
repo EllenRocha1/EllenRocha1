@@ -12,8 +12,8 @@
 
 ### 📜 Sobre mim
 
-🌟 Olá! Eu sou a **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
-🚀 Entusiasta de tecnologia, ciência, robótica e design retrô!  
+🌟 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
+🚀 Entusiasta de tecnologia, ciência e robótica!  
 💡 Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ---
