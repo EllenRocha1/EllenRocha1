@@ -1,16 +1,58 @@
-## Hi there 👋
+🧙‍♀️ _“<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:82b1ff,100:ffcc80&height=180&section=header&text=Ellen%20Rocha&fontAlign=center&fontSize=40&fontColor=ffffff" />
+  
+  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.gif" width="150px" alt="Pixel Avatar">
+  
+  <h2>🧑‍💻 Desenvolvedora em Construção | 🌱 Amante de Robótica e Pixel Art</h2>
+</div>
 
-<!--
-**EllenRocha1/EllenRocha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📜 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Olá! Eu sou a **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
+🚀 Entusiasta de tecnologia, ciência, robótica e design retrô!  
+💡 Atualmente envolvida em projetos de impacto social e educação tecnológica.
+
+---
+### 🧰 Ferramentas e Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+### 🎯 Projetos e Iniciativas
+
+🌟 **Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino  
+🤖 **AUTOBOTS** — competições, automação e programação embarcada  
+🚀 **Robótica sem Fronteiras** — aulas de robótica para alunos da rede pública
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllenRocha1&show_icons=true&theme=gruvbox&hide=prs" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenRocha1&layout=compact&theme=gruvbox" />
+</div>
+
+---
+
+### 🎓 Certificações Recentes
+
+🧠 **Oracle Next Education (ONE - Back-End)** — Java, Spring Boot, IA  
+🔌 **Robótica Livre (Eletrônica)** — prática com circuitos e lógica digital  
+📃 **EFSET C2** — Certificado internacional de proficiência em inglês
+
+---
+
+### 📫 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/EllenRocha1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+📧 ellenrocha.dev@gmail.com  
