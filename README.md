@@ -13,8 +13,8 @@
 ### 📜 Sobre mim
 
 🌟 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
-🚀 Entusiasta de tecnologia, ciência e robótica!  
-💡 Atualmente envolvida em projetos de impacto social e educação tecnológica.
+Entusiasta de tecnologia, ciência e robótica!  
+Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ---
 ### 🧰 Ferramentas e Tecnologias
@@ -47,14 +47,13 @@
 
 ### 🎓 Certificações Recentes
 
-🧠 **Oracle Next Education (ONE - Back-End)** — Java, Spring Boot, IA  
-🔌 **Robótica Livre (Eletrônica)** — prática com circuitos e lógica digital  
-📃 **EFSET C2** — Certificado internacional de proficiência em inglês
+**Oracle Next Education (ONE - Back-End)** — Java, Spring Boot, IA  
+**Robótica Livre (Eletrônica)** — prática com circuitos e lógica digital  
+**EFSET C2** — Certificado internacional de proficiência em inglês
 
 ---
 
 ### 📫 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/EllenRocha1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
 📧 ellenrocha.dev@gmail.com  
