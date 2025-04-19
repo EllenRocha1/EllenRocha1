@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Banner com tons Stardew Valley: verde musgo → azul claro -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c686,100:9ad0ec&height=180&section=header&text=Ellen%20Rocha&fontAlign=center&fontSize=40&fontColor=fffbe6" />
+  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-art.gif" width="250px" alt="Pixel Gif ">
 
   <!-- Pixel Avatar no estilo retrô (adicione esse arquivo na pasta assets do seu perfil) -->
-  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" width="150px" alt="Pixel Avatar">
+  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" align="left" width="100px" alt="Pixel Avatar">
 
   <h2 style="color:#a67c52">🧑‍💻 Eng. da Computação em Construção | 🌻 Entusiasta da Robótica</h2>
 </div>
