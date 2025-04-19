@@ -1,13 +1,13 @@
 <div align="center">
   <!-- Banner com tons Stardew Valley: verde musgo → azul claro -->
-  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-art.gif" width="500px" alt="Pixel Gif ">
+  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/purple-pixel.gif" width="500px" alt="Pixel Gif ">
 
   <h2 style="color:#a67c52">🧑‍💻 Eng. da Computação em Construção | 🌻 Entusiasta da Robótica</h2>
 </div>
 
 ---
 <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" align="left" width="100px" alt="Pixel Avatar">
-###  Sobre mim
+### Sobre Mim
 
 🌟 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
 Entusiasta de tecnologia, ciência e robótica!  
