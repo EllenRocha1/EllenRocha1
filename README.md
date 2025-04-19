@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner com tons Stardew Valley: verde musgo → azul claro -->
-  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/1.gif" width="1000px" alt="Pixel Gif ">
+  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/banner-pixel.gif" width="100%" alt="Pixel Gif ">
 
   <h2 style="color:#a67c52">🧑‍💻 Eng. da Computação em Construção | 🌻 Entusiasta da Robótica</h2>
 </div>
