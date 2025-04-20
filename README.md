@@ -52,5 +52,5 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/ellen-rocha-dev)
 📧 ellenrocha.dev@gmail.com  
