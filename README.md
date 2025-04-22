@@ -37,7 +37,7 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllenRocha1&show_icons=true&theme=gruvbox&hide=prs" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenRocha1&layout=compact&theme=gruvbox" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenRocha1&layout=compact&theme=gruvbox&hide=javascript" />
 </div>
 
 ---
