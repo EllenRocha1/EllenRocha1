@@ -7,7 +7,7 @@
 
 ---
 <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" align="left" width="100px" alt="Pixel Avatar">
-### Sobre Mim
+Sobre Mim
 
 🌟 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
 Entusiasta de tecnologia, ciência e robótica!  
@@ -53,4 +53,5 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ellen-rocha-dev)
-📧 ellenrocha.dev@gmail.com  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ellenrocha.dev@gmail.com)
+
