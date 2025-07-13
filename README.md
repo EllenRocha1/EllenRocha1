@@ -9,7 +9,7 @@
 <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" align="left" width="100px" alt="Pixel Avatar">
 Sobre Mim
 
-🌟 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
+Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
 Entusiasta de tecnologia, ciência e robótica!  
 Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
@@ -25,15 +25,15 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 🎯 Projetos e Iniciativas
+### Projetos e Iniciativas
 
-🌟 **Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino  
-🤖 **AUTOBOTS** — competições, automação e programação embarcada  
-🚀 **Robótica sem Fronteiras** — aulas de robótica para alunos da rede pública
+**Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino  
+**AUTOBOTS** — competições, automação e programação embarcada  
+**Robótica sem Fronteiras** — aulas de robótica para alunos da rede pública
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllenRocha1&show_icons=true&theme=gruvbox&hide=prs" />
@@ -42,7 +42,7 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ---
 
-### 🎓 Certificações Recentes
+### Certificações Recentes
 
 **Oracle Next Education (ONE - Back-End)** — Java, Spring Boot, IA  
 **Robótica Livre (Eletrônica)** — prática com circuitos e lógica digital  
@@ -50,7 +50,7 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ellen-rocha-dev)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ellenrocha.dev@gmail.com)
