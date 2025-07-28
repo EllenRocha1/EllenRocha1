@@ -35,8 +35,8 @@ Atualmente envolvida em projetos de impacto social e educação tecnológica.
 ### GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllenRocha1&show_icons=true&theme=gruvbox&hide=prs" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenRocha1&layout=compact&theme=gruvbox&hide=javascript" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllenRocha1&show_icons=true&hide=prs&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb&bg_color=0d1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenRocha1&layout=compact&hide=javascript&title_color=ff69b4&text_color=ffc0cb&bg_color=0d1117" />
 </div>
 
 ---
