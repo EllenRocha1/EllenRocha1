@@ -6,7 +6,6 @@
 </div>
 
 ---
-<img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/pixel-ellen.png" align="left" width="100px" alt="Pixel Avatar">
 Sobre Mim
 
 Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE  
@@ -14,7 +13,7 @@ Entusiasta de tecnologia, ciência e robótica!
 Atualmente envolvida em projetos de impacto social e educação tecnológica.
 
 ---
-### 🧰 Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
