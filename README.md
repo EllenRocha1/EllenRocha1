@@ -23,8 +23,7 @@ Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE
 ---
 ### Projetos e Iniciativas
 
-**Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino  
-**AUTOBOTS** — competições, automação e programação embarcada  
+**Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino   
 **Robótica sem Fronteiras** — aulas de robótica para alunos da rede pública
 
 ---
