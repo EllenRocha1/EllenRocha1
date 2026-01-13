@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/banner-pixel.gif" width="100%" height="220px" alt="Pixel Banner">
+    <img src="https://github.com/EllenRocha1/EllenRocha1/blob/main/assets/banner-pixel.gif" width="100%" height="350px" alt="Pixel Gif ">
 
-  <h3>Engenharia da Computação • Backend • Visão Computacional</h3>
+  <h3>Engenharia da Computação • Backend • Desenvolvimento Web</h3>
 </div>
 
 ---
