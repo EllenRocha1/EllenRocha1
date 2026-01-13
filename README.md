@@ -25,7 +25,7 @@ Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE
 
 **Meninas na Ciência** — oficinas, ciência e tecnologia com foco feminino   
 **Robótica sem Fronteiras** — aulas de robótica para alunos da rede pública
-
+**Autobots** — Equipe de Competição de Robótica 
 ---
 
 ### GitHub Stats
