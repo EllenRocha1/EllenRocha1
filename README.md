@@ -40,8 +40,6 @@ Atuo com desenvolvimento backend, visão computacional e projetos educacionais c
     width="85%" 
   />
 
-  <br/><br/>
-
   <!-- Cards secundários -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllenRocha1&theme=rose_pine" 
