@@ -30,9 +30,12 @@ Olá! Eu sou **Ellen Rocha**, estudante de Engenharia da Computação na UFRPE
 
 ### GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenRocha1&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllenRocha1&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllenRocha1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllenRocha1&theme=rose_pine)
+
+| | |
+|:-:|:-:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllenRocha1&theme=rose_pine) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllenRocha1&theme=rose_pine) |
+
 
 
 ---
